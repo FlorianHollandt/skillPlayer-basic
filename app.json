@@ -1,0 +1,17 @@
+{
+	"alexaSkill": {
+		"nlu": "alexa",
+		"manifest": {
+			"apis": {
+				"custom": {
+					"interfaces": [
+						{
+							"type": "AUDIO_PLAYER"
+						}
+					]
+				}
+			}
+		}
+	},
+	"endpoint": "your kovo webhook here"
+}
